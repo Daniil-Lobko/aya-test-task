@@ -39,6 +39,8 @@ he/she should receive 20% of the $10,000.
 If employee contributions are less than $100, the value should be counted
 towards the total, but the employee do not receive remuneration.
 
+Output file with rewards for each employee posted in repository.
+
 ### Questions
 
 Objective: demonstrate that the design desicions you made were solid by
